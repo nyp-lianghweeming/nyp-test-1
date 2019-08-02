@@ -5,3 +5,7 @@ permalink: /left-nav-two/sub-page-C/
 breadcrumb: Sub Page C
 collection_name: left-nav-two
 ---
+
+Title
+
+This is my first page. sophia
