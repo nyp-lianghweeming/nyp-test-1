@@ -5,3 +5,4 @@ permalink: /left-nav-one/sub-page-B/
 breadcrumb: Sub Page B
 collection_name: left-nav-one
 ---
+[goto nyp](http://www.nyp.edu.sg "goto nyp")
